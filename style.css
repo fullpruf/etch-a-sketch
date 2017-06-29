@@ -1,0 +1,35 @@
+.heading {
+	font-family: "Amatic SC", cursive;
+	font-size: 44px;
+}
+.container {
+	height: 496px;
+	width: 500px;
+	border: 10px solid #669ef9;
+	margin: auto;
+}
+.grid {
+	margin: 0;
+	padding: 0;
+	top: 0;
+	border: 0;
+	outline: 1px solid #000;
+	display: inline-block;
+	vertical-align: top;
+	background-color: white;
+	float: left;
+}
+p {
+	font-family: "Amatic SC", cursive;
+	font-size: 30px;
+	line-height: 5px;
+}
+button {
+	background-color: #a5a5a5;
+	color: black;
+	border: 2px solid black;
+	border-radius: 2px;
+}
+button:active {
+	background-color: #ddd;
+}
